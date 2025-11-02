@@ -1,0 +1,13 @@
+# Files
+*.zip
+*.tar
+*.ipynb_checkpoints
+*.kate-swp
+*.csv
+*.json
+*.jsonl
+
+# Folders
+/__pycache__
+/human-eval
+/ipynb_checkpoints
